@@ -1,0 +1,10 @@
+body{
+  text-align:center;
+  background-color:skyblue;
+}
+
+img{
+  margin:20px;
+  padding:10px;
+  border:solid 10px white;
+}
